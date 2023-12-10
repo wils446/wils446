@@ -16,3 +16,5 @@ jobs:
           SYMBOL_VERSION: 2
           SHOW_LOC_CHART: false
           SHOW_PROJECTS: false
+          SHOW_LINES_OF_CODE: true
+          SECTION_NAME: "😼 My Data"
