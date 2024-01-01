@@ -1,6 +1,6 @@
 # Hi👋, I'm Wilson.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C116%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C120%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -10,7 +10,7 @@
 
 > 📦 8.3 kB Used in GitHub's Storage 
  > 
-> 🏆 86 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -45,15 +45,15 @@ Sunday                   30 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               14 hrs 37 mins      █████████████████████████   99.72 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TypeScript               16 hrs 32 mins      █████████████████████████   99.75 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 40 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 35 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      14 hrs 40 mins      █████████████████████████   100.00 % 
+WSL                      16 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -67,5 +67,5 @@ JavaScript               2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 31/12/2023 00:35:56 UTC
+ Last Updated on 01/01/2024 00:37:03 UTC
 <!--END_SECTION:waka-->
