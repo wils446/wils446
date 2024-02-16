@@ -1,6 +1,8 @@
 # Hi👋, I'm Wilson.
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C187%20hrs%2028%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-164.6%20thousand%20lines%20of%20code-blue)
 
@@ -43,15 +45,13 @@ Sunday                   30 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               43 mins             ████████████████████████░   94.54 % 
-JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  46 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  46 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -65,5 +65,5 @@ JavaScript               2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 15/02/2024 02:17:13 UTC
+ Last Updated on 16/02/2024 00:31:01 UTC
 <!--END_SECTION:waka-->
